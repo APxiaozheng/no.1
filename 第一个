@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>小郑的主页</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="background-color: #f1f1f1; text-align: center; padding: 30px">
+      <img
+        src="https://i.328888.xyz/2023/02/27/eZtxb.jpeg"
+        alt="apxiangzheng"
+        width="52px"
+        height="52px"
+      />
+    </div>
+    <div
+      style="max-width: 7200px; margin: 1px auto; padding: 30px; line-height: 3"
+    >
+      <p>这是小郑的第一个网站</p>
+      <p>正在努力学习网页搭建</p>
+      <p>正在努力学习C语言</p>
+      <p>正在努力学习电子元器件开发</p>
+      <p>学习进度1%</p>
+      <p>往头秃方向努力</p>
+    </div>
+    <div style="background-color: #f1f1f1; text-align: center; padding: 30px">
+      <p>APxiaozheng的网站</p>
+    </div>
+  </body>
+</html>
